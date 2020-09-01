@@ -1,0 +1,12 @@
+{
+  "name": "react-reanimated",
+  "displayName": "react-reanimated",
+  "expo": {
+    "name": "react-reanimated",
+    "slug": "react-reanimated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
